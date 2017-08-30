@@ -2,10 +2,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-Q6O3f7-lIDNkT8ISxjcSEflcmjOJzWzeS3Dpubq1VZgx8Hv" group-title="DIRECTV",Contato Lista Paga 35,00
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-Q6O3f7-lIDNkT8ISxjcSEflcmjOJzWzeS3Dpubq1VZgx8Hv" group-title="DIRECTV LISTA PAGA 35,00",12982077124
 http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8
 
-#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-kJBJM0YNwwk/T7sfMojHkyI/AAAAAAAABtg/r_9X9O8Bnz8/s1600/directv-prepago-contratar.jpg" group-title="STAFF",facebook.com/nexxiptv 
+#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-kJBJM0YNwwk/T7sfMojHkyI/AAAAAAAABtg/r_9X9O8Bnz8/s1600/directv-prepago-contratar.jpg" group-title="FACEBOOK",fb/nexxiptv 
 http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
 
 
