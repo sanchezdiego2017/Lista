@@ -4,12 +4,10 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-Q6O3f7-lIDNkT8ISxjcSEflcmjOJzWzeS3Dpubq1VZgx8Hv" group-title="DIRECTV",Contato Lista Paga 
 
-#EXTINF:1 tvg-logo="http://www.novasdodia.com.br/wp-content/uploads/2014/02/facebook-whatsapp-quanto.jpg" group-title="STAFF",facebook.com/nexxiptv 
-http:// whatsap: 12982077124
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4T89e-B7phQ/maxresdefault.jpg"group-title="Desenhos",[COLOR orange] (SERIADOS)[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4T89e-B7phQ/maxresdefault.jpg"group-title="Desenhos",Desenhos e Animes
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://goo.gl/VqEvBa" group-title="Chaves",Ep170 Chaves: Ser Professor é Padecer no Inferno
@@ -5716,42 +5714,6 @@ http://vd.ec.cx/vd/dd/RC/RCServer01/videos/OCDZEP143.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer01/videos/OCDZEP144.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ej3vSsG.jpg" group-title="OS CAVALEIROS DO ZODIACO",OS CAVALEIROS DO ZODIACO 145
 
-
-#EXTM3U
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/Wav5Hh"group-title="SERIES",[COLOR blue](DESENHOS E ANIMES) [/COLOR]
-http://
-
-#EXTINF:-1 tvg-logo="https://goo.gl/IV8dy" group-title="DIAR LIMA",[COLOR blue] facebook.com/DIAR LIMA[/COLOR]
-http://
-
-#EXTINF:1 tvg-logo="https://goo.gl/jNoUiT" group-title="WHATSAPP",[COLOR yellow] (WHATSAP 88992751575)[/COLOR]
-http://
-
-#EXTINF:-1 tvg-logo="https://goo.gl/Wrg5vr" group-title="",[COLOR yellow](TENHO LISTA PAGA COM TODOS OS CANAIS LIBERADOS CHAMAR NO ZAP)[/COLOR]
-http://
-
-#EXTINF:-1 tvg-logo="https://goo.gl/NKYyiJ" group-title="",[COLOR red](ADIQUIRA O PACOTE SO SD )[/COLOR]
-http://
-
-#EXTINF:-1 tvg-logo="https://goo.gl/NKYyiJ" group-title="",[COLOR red](ADIQUIRA O PACOTE SD+HD )[/COLOR]
-http://
-
-#EXTINF:-1 tvg-logo="https://goo.gl/NKYyiJ" group-title="",[COLOR red](ADIQUIRA O PACOTE COMPLETO SD+HD+CANAIS INTERNACIONAIS)[/COLOR]
-http://
-
-#EXTINF:-1 tvg-logo="https://goo.gl/jbEZ70" group-title="",[COLOR red](ADIQUIRA E TENHA TODOS OS JOGOS DO BRASILEIRÃO AO VIVO)[/COLOR]
-http://
-
-#EXTINF:-1 tvg-logo="https://goo.gl/R9kwIB" group-title="FAÇA UMA DOACAO",[COLOR orange](FAÇA UMA DOAÇÃO) [/COLOR]
-http://
-
-#EXTINF:-1 tvg-logo="https://goo.gl/R9kwIB" group-title="FAÇA UMA DOACAO",[COLOR orange](AGENCIA 0554 CONTA P 00242748-0 CAIXA) [/COLOR]
-http://
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1xSetycix28/maxresdefault.jpg" group-title="ATUALIZADO",[COLOR red](ATUALIZADO 12/05/2017)[/COLOR]
-http://
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/q3Lz6WPh_gM/maxresdefault.jpg" group-title="DESENHOS",[COLOR gold](ANIMES)[/COLOR]
 http://
